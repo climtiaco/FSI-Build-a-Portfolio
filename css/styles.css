@@ -1,0 +1,56 @@
+body {
+    background-color:#5c462d;
+    color:rgb(88, 170, 242);
+    font-family: "monaco", Monospace;
+
+    
+}
+
+h1 {
+    color:#fb8e00;
+    font-family: "Courier New", Courier, monospace;
+
+}
+
+.center {
+    text-align: center;
+    color: #e7ff32;
+    font-family: "Brush Script M7", cursive;
+
+}
+img {
+
+    border-radius: 10px;
+    border-color: #fb8e00;
+    border-style: outset;
+    border-width: 5px;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2, h3 {
+    color:darkcyan;
+
+}
+
+hr {
+    color: #e7ff32;
+    border: 2px solid ;
+
+}
+
+.projects {
+    text-align: center;
+    font-family: "Helvetica", Sans-serif;
+
+
+}
+
+div {
+    cursor: alias;
+}
